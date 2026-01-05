@@ -1,0 +1,11 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore logs
+etl.log
+
+# Ignore database config (passwords)
+db_config.py
+
+# Ignore Excel files
+*.xlsx
